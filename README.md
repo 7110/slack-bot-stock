@@ -1,6 +1,6 @@
 # Slack bot for Stock
 
-### poins
+### points
 * get stock info on Slack
 * written by _Python_
 * be able to save user stock info to DB
